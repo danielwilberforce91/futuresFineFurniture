@@ -4,7 +4,7 @@ import { HoverSensor } from 'libreact/lib/HoverSensor'
 
 
 const listings = [
-  { name: 'Dinning Room', link: '/range/Dinning' },
+  { name: 'Dining Room', link: '/range/Dinning' },
   { name: 'Living Room', link: '/range/Living' },
   { name: 'Bedroom', link: '/range/Bedroom' },
   { name: 'Outdoor Furniture', link: '/range/Outdoor' },
